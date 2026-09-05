@@ -1,0 +1,58 @@
+{
+  "name": "agency-dashboard",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Agency Dashboard for LotusLive",
+  "dependencies": {
+    "@parse/react-ssr": "^0.0.1-alpha.18",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.8.4",
+    "date-fns": "^4.1.0",
+    "formik": "^2.4.6",
+    "i18next": "^24.2.3",
+    "i18next-browser-languagedetector": "^8.0.4",
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2",
+    "parse": "^6.1.1",
+    "react": "^19.1.0",
+    "react-confirm-alert": "^3.0.6",
+    "react-csv": "^2.2.2",
+    "react-dom": "^19.1.0",
+    "react-i18next": "^15.4.1",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.30.0",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.10.1",
+    "react-toastify": "^11.0.5",
+    "styled-components": "^6.1.16",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
