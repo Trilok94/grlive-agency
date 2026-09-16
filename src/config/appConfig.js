@@ -8,20 +8,20 @@
 const appConfig = {
   // Application Information
   appName: 'Lotus Live Agency Dashboard',
-  
+
   // Parse Server Configuration
   parseServer: {
     applicationId: 'toV4KIY6QqAIZEVWhK5NAowtkACfeRkLTdShHM3b',
-    serverUrl: 'http://localhost:3345/1/',
+    serverUrl: 'https://api.grlive.in/1/',
     javascriptKey: 'AnV2Up7Wvqbrs9QZFVRoFMq3qSRkHbfCfLdheTUr'
   },
-  
+
   // App Store Links
   appStoreLinks: {
     ios: 'https://apps.apple.com/app/id000000',
     android: 'https://play.google.com/store/apps/details?id=com.lotuslive.app'
   },
-  
+
   // Social Media Links
   socialMedia: {
     facebook: 'https://facebook.com/lotusLive',
@@ -44,7 +44,7 @@ const appConfig = {
       redirectURI: window.location.origin
     }
   },
-  
+
   // Support Information
   support: {
     email: 'support@lotusapp.live',
