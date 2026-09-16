@@ -19,7 +19,7 @@ const appConfig = {
   // App Store Links
   appStoreLinks: {
     ios: 'https://apps.apple.com/app/id000000',
-    android: 'https://play.google.com/store/apps/details?id=com.lotuslive.app'
+    android: 'https://play.google.com/store/apps/details?id=com.app.grlive'
   },
 
   // Social Media Links
