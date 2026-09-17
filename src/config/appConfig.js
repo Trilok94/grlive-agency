@@ -36,7 +36,7 @@ const appConfig = {
       version: 'v18.0'
     },
     google: {
-      clientId: process.env.REACT_APP_GOOGLE_CLIENT_ID
+      clientId: "167791903606-p6cdjj32dp7qv18tpo9eahnkia2orfam.apps.googleusercontent.com"
     },
     apple: {
       clientId: '123456789', // Apple Client ID
