@@ -1,13 +1,13 @@
 /**
  * Application Configuration
  * 
- * This file contains all the configuration values for the LotusLive Agency Dashboard.
+ * This file contains all the configuration values for the GrLive Agency Dashboard.
  * Centralizing these values makes it easier to maintain and update the application.
  */
 
 const appConfig = {
   // Application Information
-  appName: 'Lotus Live Agency Dashboard',
+  appName: 'Grlive Agency Dashboard',
 
   // Parse Server Configuration
   parseServer: {
@@ -24,9 +24,9 @@ const appConfig = {
 
   // Social Media Links
   socialMedia: {
-    facebook: 'https://facebook.com/lotusLive',
-    twitter: 'https://twitter.com/lotusLive',
-    instagram: 'https://instagram.com/lotusLive'
+    facebook: 'https://facebook.com/GRLive',
+    twitter: 'https://twitter.com/GRLive',
+    instagram: 'https://instagram.com/GRLive'
   },
 
   // Social Login Configuration
@@ -47,8 +47,8 @@ const appConfig = {
 
   // Support Information
   support: {
-    email: 'support@lotusapp.live',
-    helpCenter: 'https://help.lotusapp.live'
+    email: 'support@grlive.in',
+    helpCenter: 'https://help.grlive.in'
   },
 };
 

@@ -1,4 +1,4 @@
-# LotusLive Agency Dashboard
+# Grlive Agency Dashboard
 
 A React-based dashboard for managing a LotusLive streaming agency. This application provides a comprehensive interface for agencies to manage hosts, monitor streams, and track performance analytics.
 
