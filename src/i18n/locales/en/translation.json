@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "LotusLive Agency Dashboard",
+    "name": "GrLive Agency Dashboard",
     "tagline": "Manage your streaming talent and grow your business"
   },
   "auth": {
@@ -38,12 +38,12 @@
     "welcome": {
       "getStarted": "Get Started",
       "login": "Login",
-      "heroTitle": "Grow Your Streaming Business with LotusLive",
+      "heroTitle": "Grow Your Streaming Business with GrLive",
       "heroSubtitle": "Manage your hosts, track earnings, and optimize performance all in one place.",
       "downloadInstructions": "First download the app and create an account, then access the agency dashboard.",
       "accessDashboard": "Access Agency Dashboard",
       "features": {
-        "title": "Why Choose LotusLive Agency?",
+        "title": "Why Choose GrLive Agency?",
         "hostManagement": "Comprehensive host management",
         "hostManagementDesc": "Recruit, train, and manage your streaming talent all in one place.",
         "analytics": "Real-time performance analytics",
@@ -54,9 +54,9 @@
         "security": "Secure and reliable platform"
       },
       "downloadPopup": {
-        "title": "Download LotusLive App First",
-        "instructions": "To use the LotusLive Agency Dashboard, you need to:",
-        "step1": "Download the LotusLive app from App Store or Google Play",
+        "title": "Download GrLive App First",
+        "instructions": "To use the GrLive Agency Dashboard, you need to:",
+        "step1": "Download the GrLive app from App Store or Google Play",
         "step2": "Create an account in the app",
         "step3": "Then return here to log in to the Agency Dashboard",
         "downloadIos": "Download for iOS",
@@ -73,7 +73,7 @@
   "agencyOptions": {
     "loading": "Loading Agency Options...",
     "chooseYourPath": "Choose Your Agency Path",
-    "selectHowToProceed": "Select how you want to proceed with LotusLive",
+    "selectHowToProceed": "Select how you want to proceed with GrLive",
     "registerAgency": "Register an Agency",
     "registerAgencyDescription": "Create and manage your own agency",
     "recruitAndManageStreamers": "Recruit and manage streamers",
@@ -475,7 +475,7 @@
     },
     "register": {
       "title": "Register an Agency",
-      "description": "Complete the form below to register your agency with LotusLive",
+      "description": "Complete the form below to register your agency with GrLive",
       "formFields": {
         "agencyName": "Agency Name",
         "agencyNamePlaceholder": "Enter your agency name",
@@ -696,7 +696,7 @@
     "clearSearch": "Clear Search",
     "close": "Close",
     "back": "Back",
-    "copyright": " LotusLive Agency Dashboard. All rights reserved.",
+    "copyright": " GrLive Agency Dashboard. All rights reserved.",
     "today": "Today",
     "yesterday": "Yesterday",
     "moreOptions": "More Options",
@@ -724,7 +724,7 @@
       "unknownUser": "Unknown User"
     }
   },
-  
+
   "hostHistory": {
     "searchPlaceholder": "Search by name or UID...",
     "filter": {
